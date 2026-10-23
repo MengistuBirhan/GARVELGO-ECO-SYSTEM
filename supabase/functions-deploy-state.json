@@ -1,0 +1,9 @@
+{
+  "projectId": "72309101",
+  "functions": {
+    "send-approval-email": {
+      "hasChanged": false,
+      "hash": "438a073ee438b96e69588ae13e75ccaf62a99ed7824af5e0ac47111fa3ad704a"
+    }
+  }
+}
